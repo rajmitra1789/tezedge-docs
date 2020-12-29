@@ -236,10 +236,10 @@ The methods by which blockchains reach consensus are still evolving and new cons
 
 
 
-*   Miguel Castro and Barbara Liskov. “Practical Byzantine Fault Tolerance,” in Proceedings of the Third Symposium on Operating Systems Design and Implementations, 1999
-*   Preethi Kasireddy. “Let’s take a crack at understanding distributed consensus,” [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/), 2018
+*   Castro, Miguel and Liskov, Barbara. “Practical Byzantine Fault Tolerance,” in Proceedings of the Third Symposium on Operating Systems Design and Implementations, 1999.
 *   Interchain Foundation. “Understanding the Basics of a Proof-of-Stake Security Model,” in [http://blog.cosmos.network/](http://blog.cosmos.network/), 2017.
-*   Leslie Lamport, Robert Shostak, and Marshall Pease. “The Byzantine Generals Problem,” in ACM Transactions on Programming Languages and Systems, Vol. 4, 1982.
-*   Georgios Konstantopoulos. “Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance,” in [https://medium.com/loom-network/](https://medium.com/loom-network/), 2017.
-*   Ameer Rosic "Proof of Work vs Proof of Stake: Basic Mining Guide," in [https://blockgeeks.com/](https://blockgeeks.com/) in 2018
-*   Paul Krzyzanowski. “Understanding Paxos,“ in [https://www.cs.rutgers.edu/](https://www.cs.rutgers.edu/), 2018
+*  Kasireddy, Preethi. “Let’s take a crack at understanding distributed consensus,” [https://www.preethikasireddy.com/](https://www.preethikasireddy.com/), 2018.
+*   Konstantopoulos, Georgios. “Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance,” in [https://medium.com/loom-network/](https://medium.com/loom-network/), 2017.
+*   Krzyzanowski, Paul. “Understanding Paxos,“ in [https://www.cs.rutgers.edu/](https://www.cs.rutgers.edu/), 2018
+*   Lamport, Leslie, Shostak, Robert, and Pease, Marshall. “The Byzantine Generals Problem,” in ACM Transactions on Programming Languages and Systems, Vol. 4, 1982.
+*   Rosic, Ameer "Proof of Work vs Proof of Stake: Basic Mining Guide," in [https://blockgeeks.com/](https://blockgeeks.com/) in 2018.
